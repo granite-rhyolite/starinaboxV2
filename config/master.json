@@ -378,18 +378,33 @@
 				"_type": "string"
 			},
 			"content": {
-				"m0_2" : {
-					"_title": "0.2 solar masses",
+				"m0_1" : {
+					"_title": "0.1 solar masses",
 					"_text": "The help screen about this mass of star. Can contain HTML.",
 					"_type": "textarea"
 				},
-				"m0_65" : {
-					"_title": "0.65 solar masses",
+				"m0_25" : {
+					"_title": "0.25 solar masses",
+					"_text": "The help screen about this mass of star. Can contain HTML.",
+					"_type": "textarea"
+				},
+				"m0_5" : {
+					"_title": "0.5 solar masses",
+					"_text": "The help screen about this mass of star. Can contain HTML.",
+					"_type": "textarea"
+				},
+				"m0_75" : {
+					"_title": "0.75 solar masses",
 					"_text": "The help screen about this mass of star. Can contain HTML.",
 					"_type": "textarea"
 				},
 				"m1" : {
 					"_title": "1 solar mass",
+					"_text": "The help screen about this mass of star. Can contain HTML.",
+					"_type": "textarea"
+				},
+				"m1.5" : {
+					"_title": "1.5 solar masses",
 					"_text": "The help screen about this mass of star. Can contain HTML.",
 					"_type": "textarea"
 				},
@@ -408,8 +423,18 @@
 					"_text": "The help screen about this mass of star. Can contain HTML.",
 					"_type": "textarea"
 				},
+				"m8" : {
+					"_title": "8 solar masses",
+					"_text": "The help screen about this mass of star. Can contain HTML.",
+					"_type": "textarea"
+				},
 				"m10" : {
 					"_title": "10 solar masses",
+					"_text": "The help screen about this mass of star. Can contain HTML.",
+					"_type": "textarea"
+				},
+				"m15" : {
+					"_title": "15 solar masses",
 					"_text": "The help screen about this mass of star. Can contain HTML.",
 					"_type": "textarea"
 				},
@@ -425,6 +450,16 @@
 				},
 				"m40" : {
 					"_title": "40 solar masses",
+					"_text": "The help screen about this mass of star. Can contain HTML.",
+					"_type": "textarea"
+				},
+				"m60" : {
+					"_title": "60 solar masses",
+					"_text": "The help screen about this mass of star. Can contain HTML.",
+					"_type": "textarea"
+				},
+				"m100" : {
+					"_title": "100 solar masses",
 					"_text": "The help screen about this mass of star. Can contain HTML.",
 					"_type": "textarea"
 				}
